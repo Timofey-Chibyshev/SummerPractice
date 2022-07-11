@@ -1,2 +1,2 @@
 # SummerPractice
-basic functionality testing
+Testing the basic functionality of the Fibonachi heap
