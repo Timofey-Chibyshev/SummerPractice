@@ -1,2 +1,2 @@
 # SummerPractice
-Implementation of the Fibonacci heap functional
+Implementation of the Fibonachi heap functional
