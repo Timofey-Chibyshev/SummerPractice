@@ -1,1 +1,2 @@
 # SummerPractice
+basic functionality testing
